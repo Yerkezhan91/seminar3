@@ -4,7 +4,7 @@ cur.enqueue(3)
 cur.enqueue(7)
 cur.enqueue(9)
 cur.enqueue(23)
-#cur.dequeue()
+cur.dequeue()
 
 print(cur.printer())
 
